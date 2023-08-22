@@ -1,2 +1,2 @@
 # Professional-Portfolio
-A compilation of all of my programming, data science, and technical writing projects.
+A compilation of all of my programming, data analysis, and technical writing projects.
